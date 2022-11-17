@@ -1,0 +1,22 @@
+.net {
+  width: 400px;
+  height: 600px;
+  position: relative;
+  background-image: url("background.png");
+  font-size: 200px;
+  text-align: center;
+}
+
+.doodle {
+  width: 85px;
+  height: 85px;
+  position: absolute;
+  background-image: url("doodle.png");
+}
+
+.platform {
+  width: 85px;
+  height: 15px;
+  position: absolute;
+  background-color: green;
+}
